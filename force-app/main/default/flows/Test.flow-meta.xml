@@ -37,7 +37,7 @@
         <inputAssignments>
             <field>Priority</field>
             <value>
-                <stringValue>High</stringValue>
+                <stringValue>Low</stringValue>
             </value>
         </inputAssignments>
         <inputAssignments>
@@ -49,7 +49,7 @@
         <inputAssignments>
             <field>Subject</field>
             <value>
-                <stringValue>Test</stringValue>
+                <stringValue>Test Update </stringValue>
             </value>
         </inputAssignments>
         <object>Task</object>
